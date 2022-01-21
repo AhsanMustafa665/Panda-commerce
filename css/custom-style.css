@@ -1,0 +1,22 @@
+.panda-btn-info{
+    background-color: #fcecea;
+    border-radius: 30px;
+    
+}
+.catagories img{
+    width: 130px;
+}
+.toiletry{
+    border-radius: 30px;
+}
+.buy-button{
+    background-image: linear-gradient(to bottom, #e7dd85 0%, #b8e3eb 100%);
+    border: none;
+    border-radius: 10px;
+    padding: 5px;
+    color: rgb(41, 37, 37);
+    font-family: cursive;
+}
+.products{
+    border-radius: 20px;
+}
